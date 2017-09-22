@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example placeholder mod.",
+  "modid": "dazo",
+  "name": "story of ass",
+  "description": "享受神秘的菊花世界吧！",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Aye10032"],
+  "credits": "Dazo66 and his ass",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []
