@@ -1,0 +1,6 @@
+{
+    "parent":"item/handheld",
+    "textures":{
+        "layer0":"gay:items/ass_sword_broken"
+        }
+}

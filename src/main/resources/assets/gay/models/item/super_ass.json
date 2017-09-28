@@ -1,0 +1,10 @@
+{
+    "parent":"item/generated",
+    "textures":{
+        "layer0":"gay:items/super_ass"
+    },
+    "overrides": [
+        { "predicate": { "isDazo66": 0.0000000 }, "model": "redo:item/ass_sword" },
+        { "predicate": { "isDazo66": 1.0000000 }, "model": "redo:item/ass_sword_broken" }
+    ]
+}
